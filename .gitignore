@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+*.jpeg
+*.png
+*.sqlite
+*.sqlite-journal
+*.jpg
